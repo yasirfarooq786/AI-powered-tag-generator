@@ -1,5 +1,3 @@
-# AI-powered-tag-generator
-
 # AI-Powered ALT Tag Generator
 
 Automatically generates SEO-friendly ALT tags for images on any website.
